@@ -1,6 +1,6 @@
 ### Hi!! 👋 I'm Oscar Pérez, as known as **omiguelperez** 
 
-I'm realtime software engineer and backend developer.
+I'm backend developer.
 
 Ask me about Node.js or Python/Django.
 
