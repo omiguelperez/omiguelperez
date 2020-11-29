@@ -1,4 +1,4 @@
-### Hi!! 👋 I'm Oscar Pérez, as known as **omiguelperez** 
+### Hi!! 👋 I'm Oscar Pérez
 
 I'm Backend Engineer with experience in Python (with Flask and Django) and Node.js development. 
 
